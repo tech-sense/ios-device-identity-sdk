@@ -1,0 +1,11 @@
+framework module SenseOS {
+  umbrella header "SenseOS.h"
+  export *
+
+  module * { export * }
+}
+
+module SenseOS.Swift {
+  header "SenseOS-Swift.h"
+  requires objc
+}
