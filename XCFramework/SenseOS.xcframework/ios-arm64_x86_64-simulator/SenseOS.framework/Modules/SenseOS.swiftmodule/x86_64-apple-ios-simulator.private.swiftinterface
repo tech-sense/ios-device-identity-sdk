@@ -40,7 +40,7 @@ public func screenSize() -> Swift.String?
   @objc func onFailure(message: Swift.String)
   @objc func onSuccess(data: Swift.String)
 }
-@objc @_inheritsConvenienceInitializers public class SenseOS : ObjectiveC.NSObject {
+@objc @_inheritsConvenienceInitializers public class SenseOSSDK : ObjectiveC.NSObject {
   public func initializeLocationManager()
   public static func initSDK(senseConfig: SenseOS.SenseOSConfig?, withDelegate: (any SenseOS.SenseOSDelegate)?)
   public static func getSenseDetails(withDelegate: (any SenseOS.SenseOSDelegate)?)

@@ -393,8 +393,8 @@
       },
       {
         "kind": "TypeDecl",
-        "name": "SenseOS",
-        "printedName": "SenseOS",
+        "name": "SenseOSSDK",
+        "printedName": "SenseOSSDK",
         "children": [
           {
             "kind": "Function",
@@ -408,8 +408,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:7SenseOSAAC25initializeLocationManageryyF",
-            "mangledName": "$s7SenseOSAAC25initializeLocationManageryyF",
+            "usr": "s:7SenseOS0A5OSSDKC25initializeLocationManageryyF",
+            "mangledName": "$s7SenseOS0A5OSSDKC25initializeLocationManageryyF",
             "moduleName": "SenseOS",
             "declAttributes": [
               "AccessControl"
@@ -456,8 +456,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:7SenseOSAAC7initSDK11senseConfig12withDelegateyAA0A8OSConfigCSg_AA0A10OSDelegate_pSgtFZ",
-            "mangledName": "$s7SenseOSAAC7initSDK11senseConfig12withDelegateyAA0A8OSConfigCSg_AA0A10OSDelegate_pSgtFZ",
+            "usr": "s:7SenseOS0A5OSSDKC7initSDK11senseConfig12withDelegateyAA0A8OSConfigCSg_AA0A10OSDelegate_pSgtFZ",
+            "mangledName": "$s7SenseOS0A5OSSDKC7initSDK11senseConfig12withDelegateyAA0A8OSConfigCSg_AA0A10OSDelegate_pSgtFZ",
             "moduleName": "SenseOS",
             "static": true,
             "declAttributes": [
@@ -492,8 +492,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:7SenseOSAAC03getA7Details12withDelegateyAA0A10OSDelegate_pSg_tFZ",
-            "mangledName": "$s7SenseOSAAC03getA7Details12withDelegateyAA0A10OSDelegate_pSg_tFZ",
+            "usr": "s:7SenseOS0A5OSSDKC03getA7Details12withDelegateyAA0A10OSDelegate_pSg_tFZ",
+            "mangledName": "$s7SenseOS0A5OSSDKC03getA7Details12withDelegateyAA0A10OSDelegate_pSg_tFZ",
             "moduleName": "SenseOS",
             "static": true,
             "declAttributes": [
@@ -509,14 +509,14 @@
             "children": [
               {
                 "kind": "TypeNominal",
-                "name": "SenseOS",
-                "printedName": "SenseOS.SenseOS",
-                "usr": "c:@M@SenseOS@objc(cs)SenseOS"
+                "name": "SenseOSSDK",
+                "printedName": "SenseOS.SenseOSSDK",
+                "usr": "c:@M@SenseOS@objc(cs)SenseOSSDK"
               }
             ],
             "declKind": "Constructor",
-            "usr": "c:@M@SenseOS@objc(cs)SenseOS(im)init",
-            "mangledName": "$s7SenseOSAACABycfc",
+            "usr": "c:@M@SenseOS@objc(cs)SenseOSSDK(im)init",
+            "mangledName": "$s7SenseOS0A5OSSDKCACycfc",
             "moduleName": "SenseOS",
             "overriding": true,
             "implicit": true,
@@ -530,8 +530,8 @@
           }
         ],
         "declKind": "Class",
-        "usr": "c:@M@SenseOS@objc(cs)SenseOS",
-        "mangledName": "$s7SenseOSAAC",
+        "usr": "c:@M@SenseOS@objc(cs)SenseOSSDK",
+        "mangledName": "$s7SenseOS0A5OSSDKC",
         "moduleName": "SenseOS",
         "declAttributes": [
           "AccessControl",
@@ -3700,170 +3700,163 @@
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 33359,
+      "offset": 33365,
       "length": 10,
       "value": "\"latitude\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 33372,
+      "offset": 33378,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 33396,
+      "offset": 33402,
       "length": 11,
       "value": "\"longitude\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 33410,
+      "offset": 33416,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 33434,
+      "offset": 33440,
       "length": 10,
       "value": "\"accuracy\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 33446,
+      "offset": 33452,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 33470,
+      "offset": 33476,
       "length": 9,
       "value": "\"zipcode\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 33481,
+      "offset": 33487,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 33505,
+      "offset": 33511,
       "length": 6,
       "value": "\"city\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 33513,
+      "offset": 33519,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 33537,
+      "offset": 33543,
       "length": 8,
       "value": "\"region\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 33547,
+      "offset": 33553,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 33571,
+      "offset": 33577,
       "length": 13,
       "value": "\"countryCode\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 33586,
+      "offset": 33592,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 33682,
+      "offset": 33688,
       "length": 10,
       "value": "\"latitude\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 33739,
+      "offset": 33748,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 33759,
+      "offset": 33768,
       "length": 11,
       "value": "\"longitude\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 33818,
+      "offset": 33830,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 33838,
+      "offset": 33850,
       "length": 10,
       "value": "\"accuracy\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 33894,
+      "offset": 33909,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 34001,
+      "offset": 34019,
       "length": 9,
       "value": "\"zipcode\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 34022,
+      "offset": 34040,
       "length": 9,
       "value": "\"zipcode\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 34036,
+      "offset": 34054,
       "length": 2,
       "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
-      "kind": "StringLiteral",
-      "offset": 34068,
-      "length": 6,
-      "value": "\"city\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
@@ -3875,42 +3868,42 @@
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 34097,
+      "offset": 34104,
+      "length": 6,
+      "value": "\"city\""
+    },
+    {
+      "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
+      "kind": "StringLiteral",
+      "offset": 34115,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 34129,
+      "offset": 34147,
       "length": 8,
       "value": "\"region\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 34149,
+      "offset": 34167,
       "length": 8,
       "value": "\"region\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 34162,
+      "offset": 34180,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 34194,
-      "length": 13,
-      "value": "\"countryCode\""
-    },
-    {
-      "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
-      "kind": "StringLiteral",
-      "offset": 34219,
+      "offset": 34212,
       "length": 13,
       "value": "\"countryCode\""
     },
@@ -3918,1049 +3911,1056 @@
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
       "kind": "StringLiteral",
       "offset": 34237,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
-      "kind": "StringLiteral",
-      "offset": 34290,
-      "length": 9,
-      "value": "\"zipcode\""
-    },
-    {
-      "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
-      "kind": "StringLiteral",
-      "offset": 34303,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
-      "kind": "StringLiteral",
-      "offset": 34335,
-      "length": 6,
-      "value": "\"city\""
-    },
-    {
-      "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
-      "kind": "StringLiteral",
-      "offset": 34345,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
-      "kind": "StringLiteral",
-      "offset": 34377,
-      "length": 8,
-      "value": "\"region\""
-    },
-    {
-      "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
-      "kind": "StringLiteral",
-      "offset": 34389,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
-      "kind": "StringLiteral",
-      "offset": 34421,
       "length": 13,
       "value": "\"countryCode\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 34438,
+      "offset": 34255,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 34547,
+      "offset": 34308,
+      "length": 9,
+      "value": "\"zipcode\""
+    },
+    {
+      "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
+      "kind": "StringLiteral",
+      "offset": 34321,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
+      "kind": "StringLiteral",
+      "offset": 34353,
+      "length": 6,
+      "value": "\"city\""
+    },
+    {
+      "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
+      "kind": "StringLiteral",
+      "offset": 34363,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
+      "kind": "StringLiteral",
+      "offset": 34395,
+      "length": 8,
+      "value": "\"region\""
+    },
+    {
+      "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
+      "kind": "StringLiteral",
+      "offset": 34407,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
+      "kind": "StringLiteral",
+      "offset": 34439,
+      "length": 13,
+      "value": "\"countryCode\""
+    },
+    {
+      "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
+      "kind": "StringLiteral",
+      "offset": 34456,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
+      "kind": "StringLiteral",
+      "offset": 34565,
       "length": 10,
       "value": "\"latitude\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 34560,
+      "offset": 34578,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 34572,
+      "offset": 34590,
       "length": 11,
       "value": "\"longitude\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 34586,
+      "offset": 34604,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 34598,
+      "offset": 34616,
       "length": 10,
       "value": "\"accuracy\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 34610,
+      "offset": 34628,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 34622,
+      "offset": 34640,
       "length": 9,
       "value": "\"zipcode\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 34633,
+      "offset": 34651,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 34645,
+      "offset": 34663,
       "length": 6,
       "value": "\"city\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 34653,
+      "offset": 34671,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 34665,
+      "offset": 34683,
       "length": 8,
       "value": "\"region\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 34675,
+      "offset": 34693,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 34687,
+      "offset": 34705,
       "length": 13,
       "value": "\"countryCode\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 34702,
+      "offset": 34720,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 36336,
+      "offset": 36357,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 36388,
+      "offset": 36409,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 36452,
+      "offset": 36473,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 36517,
+      "offset": 36538,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 36577,
+      "offset": 36601,
       "length": 9,
       "value": "\"zipcode\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 36617,
+      "offset": 36641,
       "length": 6,
       "value": "\"city\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 36651,
+      "offset": 36675,
       "length": 8,
       "value": "\"region\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 36689,
+      "offset": 36713,
       "length": 13,
       "value": "\"countryCode\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
       "kind": "IntegerLiteral",
-      "offset": 37027,
+      "offset": 37051,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
       "kind": "BooleanLiteral",
-      "offset": 37050,
+      "offset": 37074,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
       "kind": "BooleanLiteral",
-      "offset": 37169,
+      "offset": 37193,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
       "kind": "BooleanLiteral",
-      "offset": 37212,
+      "offset": 37236,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
       "kind": "BooleanLiteral",
-      "offset": 37860,
+      "offset": 37884,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/DeviceDetails.swift",
       "kind": "StringLiteral",
-      "offset": 38238,
+      "offset": 38262,
       "length": 22,
       "value": "\"co.getsense.keychain\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "BooleanLiteral",
-      "offset": 1193,
+      "offset": 1199,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 1593,
+      "offset": 1590,
       "length": 5,
       "value": "\"str\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 1626,
+      "offset": 1623,
       "length": 9,
       "value": "\"version\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 1637,
+      "offset": 1634,
       "length": 7,
       "value": "\"0.0.1\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 1670,
+      "offset": 1667,
       "length": 9,
       "value": "\"senseID\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 1714,
+      "offset": 1711,
       "length": 6,
       "value": "\"zone\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 1772,
+      "offset": 1769,
       "length": 8,
       "value": "\"device\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 1840,
+      "offset": 1837,
       "length": 10,
       "value": "\"language\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 1902,
+      "offset": 1899,
       "length": 10,
       "value": "\"location\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 1935,
+      "offset": 1932,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 1963,
+      "offset": 1960,
       "length": 8,
       "value": "\"screen\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 2025,
+      "offset": 2022,
       "length": 7,
       "value": "\"media\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 2085,
+      "offset": 2082,
       "length": 9,
       "value": "\"battery\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 2149,
+      "offset": 2146,
       "length": 12,
       "value": "\"connection\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 2605,
+      "offset": 2602,
       "length": 26,
       "value": "\"Failed to serialize data\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 2854,
+      "offset": 2851,
       "length": 10,
       "value": "\"deviceId\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 2919,
+      "offset": 2916,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 2935,
+      "offset": 2932,
       "length": 10,
       "value": "\"platform\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 2979,
+      "offset": 2976,
       "length": 14,
       "value": "\"isRealDevice\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 3031,
+      "offset": 3028,
       "length": 14,
       "value": "\"touchSupport\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "BooleanLiteral",
-      "offset": 3048,
+      "offset": 3045,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 3066,
+      "offset": 3063,
       "length": 14,
       "value": "\"deviceMemory\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 3083,
+      "offset": 3080,
       "length": 58,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "IntegerLiteral",
-      "offset": 3126,
+      "offset": 3123,
       "length": 4,
       "value": "1024"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "IntegerLiteral",
-      "offset": 3131,
+      "offset": 3128,
       "length": 4,
       "value": "1024"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 3137,
+      "offset": 3134,
       "length": 2,
       "value": "\" mb\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 3155,
+      "offset": 3152,
       "length": 4,
       "value": "\"os\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 3182,
+      "offset": 3179,
       "length": 26,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 3207,
+      "offset": 3204,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 3222,
+      "offset": 3219,
       "length": 13,
       "value": "\"deviceTypes\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 3259,
+      "offset": 3256,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 3275,
+      "offset": 3272,
       "length": 7,
       "value": "\"board\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 3285,
+      "offset": 3282,
       "length": 7,
       "value": "\"Apple\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 3306,
+      "offset": 3303,
       "length": 7,
       "value": "\"brand\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 3315,
+      "offset": 3312,
       "length": 7,
       "value": "\"Apple\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 3337,
+      "offset": 3334,
       "length": 14,
       "value": "\"manufacturer\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 3354,
+      "offset": 3351,
       "length": 7,
       "value": "\"Apple\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 3375,
+      "offset": 3372,
       "length": 7,
       "value": "\"model\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 3410,
+      "offset": 3407,
       "length": 6,
       "value": "\"type\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 3419,
+      "offset": 3416,
       "length": 6,
       "value": "\"user\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 3439,
+      "offset": 3436,
       "length": 16,
       "value": "\"localIpAddress\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 3486,
+      "offset": 3483,
       "length": 13,
       "value": "\"dataEnabled\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 3531,
+      "offset": 3528,
       "length": 13,
       "value": "\"networkType\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 3577,
+      "offset": 3574,
       "length": 13,
       "value": "\"dataRoaming\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 3629,
+      "offset": 3626,
       "length": 19,
       "value": "\"memoryInformation\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 3670,
+      "offset": 3667,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 3686,
+      "offset": 3683,
       "length": 15,
       "value": "\"kernelVersion\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 3736,
+      "offset": 3733,
       "length": 13,
       "value": "\"countryInfo\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 3772,
+      "offset": 3769,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 3788,
+      "offset": 3785,
       "length": 15,
       "value": "\"systemStorage\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 3807,
+      "offset": 3804,
       "length": 7,
       "value": "\"total\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 3833,
+      "offset": 3830,
       "length": 6,
       "value": "\"used\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 3857,
+      "offset": 3854,
       "length": 6,
       "value": "\"free\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 3895,
+      "offset": 3892,
       "length": 20,
       "value": "\"deviceArchitecture\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 3945,
+      "offset": 3942,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 3961,
+      "offset": 3958,
       "length": 12,
       "value": "\"kernelName\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 3995,
+      "offset": 3992,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 4011,
+      "offset": 4008,
       "length": 15,
       "value": "\"networkConfig\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 4068,
+      "offset": 4065,
       "length": 18,
       "value": "\"biometricEnabled\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 4124,
+      "offset": 4121,
       "length": 17,
       "value": "\"passcodeEnabled\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 4177,
+      "offset": 4174,
       "length": 14,
       "value": "\"isAudioMuted\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 4222,
+      "offset": 4219,
       "length": 10,
       "value": "\"cpuCount\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 4262,
+      "offset": 4259,
       "length": 9,
       "value": "\"cpuType\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 4290,
+      "offset": 4287,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 4306,
+      "offset": 4303,
       "length": 10,
       "value": "\"isOnCall\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 4343,
+      "offset": 4340,
       "length": 10,
       "value": "\"cpuSpeed\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 4373,
+      "offset": 4370,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 4389,
+      "offset": 4386,
       "length": 20,
       "value": "\"usbDebuggingStatus\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 4446,
+      "offset": 4443,
       "length": 12,
       "value": "\"deviceADID\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 4480,
+      "offset": 4477,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 4496,
+      "offset": 4493,
       "length": 16,
       "value": "\"cloudContainer\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 4557,
+      "offset": 4554,
       "length": 14,
       "value": "\"systemUptime\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 4605,
+      "offset": 4602,
       "length": 15,
       "value": "\"isiOSAppOnMac\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 4659,
+      "offset": 4656,
       "length": 17,
       "value": "\"proximitySensor\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 4720,
+      "offset": 4717,
       "length": 14,
       "value": "\"lastBootTime\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 4767,
+      "offset": 4764,
       "length": 11,
       "value": "\"sessionID\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 4805,
+      "offset": 4802,
       "length": 16,
       "value": "\"accessaryCount\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 4853,
+      "offset": 4850,
       "length": 25,
       "value": "\"isMultitaskingSupported\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 4934,
+      "offset": 4931,
       "length": 22,
       "value": "\"accessibilityEnabled\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 5006,
+      "offset": 5003,
       "length": 22,
       "value": "\"developerModeEnabled\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 5068,
+      "offset": 5065,
       "length": 12,
       "value": "\"deviceHash\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 5144,
+      "offset": 5141,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 5160,
+      "offset": 5157,
       "length": 21,
       "value": "\"screenBeingMirrored\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 5246,
+      "offset": 5243,
       "length": 6,
       "value": "\"uuid\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 5285,
+      "offset": 5282,
       "length": 12,
       "value": "\"model_name\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 5573,
+      "offset": 5570,
       "length": 18,
       "value": "\"screenBrightness\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 5639,
+      "offset": 5636,
       "length": 19,
       "value": "\"displayResolution\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 5660,
+      "offset": 5657,
       "length": 34,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 5675,
+      "offset": 5672,
       "length": 1,
       "value": "\" x \""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 5693,
+      "offset": 5690,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 5708,
+      "offset": 5705,
       "length": 12,
       "value": "\"colorDepth\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 5758,
+      "offset": 5755,
       "length": 13,
       "value": "\"screenWidth\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 5799,
+      "offset": 5796,
       "length": 14,
       "value": "\"screenHeight\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 5842,
+      "offset": 5839,
       "length": 18,
       "value": "\"screenPixelRatio\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 5882,
+      "offset": 5879,
       "length": 12,
       "value": "\"screenSize\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 5913,
+      "offset": 5910,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 5929,
+      "offset": 5926,
       "length": 19,
       "value": "\"screenOrientation\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 6075,
+      "offset": 6072,
       "length": 15,
       "value": "\"audioHardware\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "Dictionary",
-      "offset": 6093,
+      "offset": 6090,
       "length": 21,
       "value": "[(\"hasSpeakers\", true)]"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 6128,
+      "offset": 6125,
       "length": 20,
       "value": "\"microPhoneHardware\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "Dictionary",
-      "offset": 6151,
+      "offset": 6148,
       "length": 24,
       "value": "[(\"hasMicrophone\", true)]"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 6189,
+      "offset": 6186,
       "length": 15,
       "value": "\"videoHardware\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "Dictionary",
-      "offset": 6207,
+      "offset": 6204,
       "length": 20,
       "value": "[(\"hasWebCam\", true)]"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 6332,
+      "offset": 6329,
       "length": 20,
       "value": "\"batteryTemperature\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 6397,
+      "offset": 6394,
       "length": 16,
       "value": "\"deviceCharging\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 6442,
+      "offset": 6439,
       "length": 14,
       "value": "\"batteryLevel\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "IntegerLiteral",
-      "offset": 6620,
+      "offset": 6617,
       "length": 4,
       "value": "1000"
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 6728,
+      "offset": 6725,
       "length": 11,
       "value": "\"timestamp\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 6773,
+      "offset": 6770,
       "length": 10,
       "value": "\"timezone\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 6811,
+      "offset": 6808,
       "length": 17,
       "value": "\"timezoneCountry\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 6861,
+      "offset": 6858,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 6985,
+      "offset": 6982,
       "length": 15,
       "value": "\"effectiveType\""
     },
     {
       "filePath": "\/Users\/ippo383\/Documents\/Sense 2.0\/Sense Open Source\/github_sense\/sense_iOS_opensource_sdk\/SenseOS\/SenseOS\/SenseOS.swift",
       "kind": "StringLiteral",
-      "offset": 7029,
+      "offset": 7026,
       "length": 6,
       "value": "\"type\""
     },
